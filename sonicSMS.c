@@ -1,4 +1,5 @@
-///Welcome to the Sonic SMS Engine built from Scratch!
+
+//Welcome to the Sonic SMS Engine built from Scratch!
 //Please forgive me if there's any bugs.
 #include "title.h"
 
@@ -8,6 +9,10 @@
 #include <cvu.h>
 
 #include <stdio.h>
+
+#include "SMSlib.h"
+#include "assets.h"
+
 
 void Start ();
 void Update ();
@@ -22,7 +27,7 @@ int main ( void )
 
 void Start ()
 {
-    printf("I suck penis.");
+    printf("You look sussy");
 }
 
 void Update () 
