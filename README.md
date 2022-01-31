@@ -6,6 +6,7 @@ SoniKit
 ![sonikitpng (1)](https://user-images.githubusercontent.com/83561919/151790199-f5bfee76-1d44-4e28-bdbd-ebd9606f54f4.png)
 
 Sonic the Hedgehog is a registered trademark of SEGA of America Inc.
+
 (c) 1991-2022 SEGA, Sonic Team
 All rights reserved.
 
